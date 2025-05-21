@@ -8,10 +8,10 @@ Proyek ini menunjukkan cara menggunakan sensor **HC-SR04** untuk mengukur jarak 
 - Presisi menggunakan kecepatan suara (`0.0343 cm/µs`)
 
 ## 🧰 Hardware yang Dibutuhkan
-- Arduino Uno / Nano / lainnya
-- Sensor Ultrasonic HC-SR04
-- Kabel jumper
-- (Opsional) Breadboard
+- Arduino Uno / Nano / lainnya : https://s.shopee.co.id/gDgfg1Tfi
+- Sensor Ultrasonic HC-SR04 : https://s.shopee.co.id/8fFyCPo9n2
+- Kabel jumper : https://s.shopee.co.id/9ACEnPFVL1
+- (Opsional) Breadboard : https://github.com/teamichibot/HOWTOHC-SR04
 
 ## 🔌 Koneksi HC-SR04 ke Arduino
 
